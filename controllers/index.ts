@@ -1,0 +1,1 @@
+export { default as S3Controller } from "./s3";
